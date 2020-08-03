@@ -1,0 +1,20 @@
+/*body {
+	background-image: url(3.jpg);
+	background-size: cover; 
+}
+h1 {
+	margin-top:10px;
+	text-align:center;
+	font-family: 'Cinzel', serif;
+}
+.container {
+	margin-top:50px;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content: center;
+}
+.col {
+	text-align: center;
+	margin-bottom:3px;
+}*/
+body {background-image: url(3.jpg);background-size: cover;}h1 {margin-top:10px;text-align:center;font-family: 'Cinzel', serif;}.container {margin-top:50px;display:flex;flex-wrap:wrap;justify-content: center;}.col {text-align: center;margin-bottom:3px;}
